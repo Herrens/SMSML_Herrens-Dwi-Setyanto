@@ -1,0 +1,15 @@
+artifact_uri: file:C:/Tio/SMSML_Herrens Dwi Setyanto/mlruns/612928296766799338/3d92cf5917f74cd6b7f0ab0adc029e25/artifacts
+end_time: 1766558925378
+entry_point_name: ''
+experiment_id: '612928296766799338'
+lifecycle_stage: active
+run_id: 3d92cf5917f74cd6b7f0ab0adc029e25
+run_name: bald-zebra-585
+run_uuid: 3d92cf5917f74cd6b7f0ab0adc029e25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766558920558
+status: 3
+tags: []
+user_id: Herrens
